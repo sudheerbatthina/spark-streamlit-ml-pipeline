@@ -1,4 +1,4 @@
-# DIC Phase 3 — PySpark + Streamlit ML
+# spark-streamlit-ml-pipeline for automatic for data preprocessing + feature engineering.
 
 This project contains:
 - A **PySpark notebook** for data preprocessing + feature engineering (`src/notebooks/DIC_PHASE_3.ipynb`)
